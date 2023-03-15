@@ -1,6 +1,9 @@
 # 🚀 Elite Dangerous: Odyssey 🛰️ Keybinds for Logitech X52 Pro 🕹️ H.O.T.A.S. By 🏔️ RealDogDad 🐕
 RealDogDad's HOTAS Keybinds for Elite Dangerous. Updated upon game update.
 Feel free to use in your own way without credit. 👌
+## Logitech X52 Pro Prerequisites:
+- [x] Disable Clutch Button
+- [x] Keep (or Change To) completely unprogrammed via X52 software. Located [here](https://logitechg502.com/wp-content/drivers/X52_HOTAS_x86_8_0_213_0.exe). 
 ## 📋 How To Use My Settings:
 1. Download `RealDogDad.binds` from this repo. These Keybinds are compatible with MKB, MKB+H.O.T.A.S. or just H.O.T.A.S.
 2. Rename file to your preferred name (For this guide: `[Named].binds`)

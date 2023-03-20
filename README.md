@@ -47,6 +47,5 @@ __REMEMBER:__ *Any* change to the keybinds using the Game UI will set your contr
 ```
 9. Keep in mind, you can assign more than one command to one keystroke. This may be prohibitive In Game, as such, consider the following: Keybinds in different 'Modes' __Can__ overlap, Keybinds in the same 'Mode' __Cannot__. 'Modes' in this context is flight (excluding landing), SRV, UI/Menu, and On Foot.
 
-A Big 👍Thanks👌 to [andrewdsmith](https://github.com/andrewdsmith) for the [EDXLC](https://github.com/andrewdsmith/edxlc) a companion app for status lights on H.O.T.A.s. for Elite Dangerous.
-And A Big 👍Thanks👌 to [troynt](https://github.com/troynt) for the [Elite Dangerous Controls Reference](https://troynt.github.io/elite_dangerous_controls_reference/)
+A Big 👍Thanks👌 to [andrewdsmith](https://github.com/andrewdsmith) for the [EDXLC](https://github.com/andrewdsmith/edxlc) a companion app for status lights on H.O.T.A.s. for Elite Dangerous, [troynt](https://github.com/troynt) for the [Elite Dangerous Controls Reference](https://troynt.github.io/elite_dangerous_controls_reference/) and [mhwlnh](https://github.com/mhwlng) for [Streamdeck Elite](https://github.com/mhwlng/streamdeck-elite).
 ### I hope this guide and associated files help another Commander or two. ☄️ See you in the Void, Commander 🌌
